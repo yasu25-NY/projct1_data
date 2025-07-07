@@ -39,3 +39,4 @@ The Lingering Challenges of Aging Tunnel Infrastructure in Japan
 
 - Could not find an API for traffic volume. If I had more time, I wanted to calculate tunnel usage rates across Japan.
 - Would like to improve my sense of design for images.
+-  Scraping took a lot of time. I want to improve my scraping skills.
